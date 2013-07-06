@@ -1,8 +1,7 @@
 mookeeper
 =========
 
-A tool used to monitor zookeeper, using node js (express), redis, ejs
-Details here https://github.com/art0chu/mookeeper.wiki.git
+A tool used to monitor zookeeper, using node js (express), redis, ejs. Details here: https://github.com/art0chu/mookeeper.wiki.git
 
 author
 =========
